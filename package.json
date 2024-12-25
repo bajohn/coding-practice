@@ -1,3 +1,6 @@
 {
-    "type": "module"
+    "type": "module",
+    "scripts": {
+        "start": "ls problems | grep ${npm_config_problem} | { read tgt; node problems/$tgt/main.js; }"
+    }
 }

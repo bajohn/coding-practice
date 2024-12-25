@@ -3,9 +3,5 @@
 Sample run command:
 
 ```
-node problems/76-Minimum-Window-Substring/main.js
+npm run start --problem=00
 ```
-```
-node problems/00-Template/main.js
-```
-
