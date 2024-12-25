@@ -1,7 +1,7 @@
 import { testCases } from "./testcases.js";
 
-var main = function (input1, input2) {
-    return input1 + input2;
+var main = function(startGene, endGene, bank) {
+    return 2;
 };
 
 for (const testCase of testCases) {
