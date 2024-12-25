@@ -1,0 +1,3 @@
+Sample problem
+
+Return output = input1+input2
